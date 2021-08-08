@@ -3,8 +3,8 @@ Experiment with PyCoral API
 
 
 ## Development Mac
-Note: refer to [this issue](https://github.com/google-coral/pycoral/issues/35#issuecomment-891998790) on dependencies
-Currently only the helper functions are tested, using pytest.
+Note: important to use USB-C to USB-C cable. Had some connection issues initially documented in [this issue](https://github.com/google-coral/pycoral/issues/35)
+
 * python3 -m venv venv
 * source venv/bin/activate
 * pip install -r requirements.txt
